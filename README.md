@@ -4,3 +4,4 @@
 npm install
 ```
 *gh-pages used to deploy in github*
+[Generated Link by gh-pages](https://mp5maker.github.io/deploy/)
